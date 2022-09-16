@@ -8,8 +8,6 @@ backend "s3" {
 
   region = "us-east-1"
 
-  dynamodb_table    = "nome-da-tabela"
-
   profile = "colocou  tf014 precisa ver isto"
 
 }
